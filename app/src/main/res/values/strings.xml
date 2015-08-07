@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookSharer</string>
+
+    <string name="welcome">Welcome to Bookie!!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">957159660962062</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_options_page">OptionsPage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_book">addBookActivity</string>
+    <string name="title_activity_search_book">searchBookActivity</string>
+    <string name="title_activity_show_book">showBookActivity</string>
+    <string name="title_activity_delete_book">deleteBookActivity</string>
+</resources>
